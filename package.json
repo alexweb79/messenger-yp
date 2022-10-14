@@ -7,7 +7,7 @@
     "clean": "rm -r dist",
     "dev": "parcel src/pages/*.hbs --port 3000 --no-cache",
     "build": "parcel build src/pages/*.hbs",
-    "start": "parcel src/pages/*.hbs --port 3000 --no-cache"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Aleksandr Smirnov <alexweb1979@gmail.com>",
