@@ -1,6 +1,4 @@
-// [1, 2, 3, 4] => 1
-
-function first(list) {
+function firstElemArr(list) {
   if (!Array.isArray(list)) {
     return undefined;
   }

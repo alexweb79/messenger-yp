@@ -2,8 +2,8 @@
 
 Приложение для обмена мгновенными сообщениями .
 
-## Mr
-[Ссылка на mr]()
+## PR
+[https://github.com/alexweb79/messenger-yp/pull/6](https://github.com/alexweb79/messenger-yp/pull/6)
 
 ## UI
 [Ссылка на макет в Figma](https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?node-id=0%3A1)
